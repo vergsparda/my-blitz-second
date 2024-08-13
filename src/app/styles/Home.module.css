@@ -121,18 +121,6 @@
     Bitstream Vera Sans Mono, Courier New, monospace;
 }
 
-.toastContainer {
-  border: 1px solid #edff;
-  padding: 0 1rem;
-  background: #eeff;
-  color: #62af;
-  text-align: center;
-}
-
-.toastContainer strong {
-  color: rgb(124, 58, 237);
-}
-
 .textLink {
   color: rgb(124, 58, 237);
   background: linear-gradient(to right, rgba(231, 216, 246, 1), rgba(231, 216, 246, 1)),
