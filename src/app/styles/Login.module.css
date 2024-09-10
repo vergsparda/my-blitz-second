@@ -1,0 +1,6 @@
+.wrap {
+    display: flex;
+    flex-direction: column;
+    margin: auto 0;
+    align-items: center;
+}
